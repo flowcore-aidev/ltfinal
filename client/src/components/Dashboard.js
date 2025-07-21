@@ -1,0 +1,1 @@
+import React from 'react'; export default function Dashboard() { return <div className='text-center text-2xl text-blue-600 font-bold'>Lydell Tech Dashboard</div>; }
