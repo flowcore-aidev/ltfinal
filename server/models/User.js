@@ -1,1 +1,0 @@
-// MongoDB User schema
